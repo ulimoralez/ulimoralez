@@ -11,11 +11,11 @@
 
 [<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/notion.svg" />][Notion]
 
-[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />][Twitter]
+[<img align="left" alt="My Twitter profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />][Twitter]
 
-[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][Linkedin]
+[<img align="left" alt="My Linkedin profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][Linkedin]
 
-[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][Instagram]
+[<img align="left" alt="My Instagram profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][Instagram]
 
 <br />
 
@@ -23,19 +23,19 @@
 
 ### Playlist with all the projects that I want to do [<img align="left" alt="Playlist with projects" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" target="_blank"/>][ProjectsPlaylist]
 
-### Playlist with videos of courses that I want to do [<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistCursos]
+### Playlist with videos of courses that I want to do [<img align="left" alt="Playlist with courses" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistCursos]
 
-### Playlist with videos of testing [<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistTesting]
+### Playlist with videos of testing [<img align="left" alt="Playlist with testing videos" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistTesting]
 
-### I want to learn about crypto, so I save videos about that here [<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistCripto]
+### I want to learn about crypto, so I save videos about that here [<img align="left" alt="Playlist with crypto videos" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistCripto]
 
-### I want to learn Vue, here's some videos, courses and projects that I want to watch [<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistVue]
+### I want to learn Vue, here's some videos, courses and projects that I want to watch [<img align="left" alt="Playlist with Vue videos" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistVue]
 
-### Here's some music to chill or study, like city pop or instrumental [<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistMusiquita]
+### Here's some music to chill or study, like city pop or instrumental [<img align="left" alt="Playlist with study music" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistMusiquita]
 
-### Here's my personal recomendation of music [<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistVibe]
+### Here's my personal recomendation of music [<img align="left" alt="Playlist with personal music" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistVibe]
 
-### I love podcasts and interviews [<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistCharlas]
+### I love podcasts and interviews [<img align="left" alt="Playlist with interviews" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistCharlas]
 
 <br />
 <br />
