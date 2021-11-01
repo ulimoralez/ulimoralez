@@ -7,7 +7,7 @@
 - I'm currently learning, my favourite platforms are Platzi and FrontendMasters
 - I have a Notion page with all the resources for programmers that I found
 
-### Connect with me 👽
+## Connect with me 👽
 
 [<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/notion.svg" />][Notion]
 
@@ -19,15 +19,39 @@
 
 <br />
 
-### Music and recommended videos
-[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" target="_blank"/>][PlaylistProyectitos] Playlist where I store videos of projects that I want to do.
-[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistTesting]Playlist where I store videos of projects that I want to do.
-[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistCursos]Playlist where I store videos of projects that I want to do.
-[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistCripto]Playlist where I store videos of projects that I want to do.
-[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistVue]Playlist where I store videos of projects that I want to do.
-[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistMusiquita]Playlist where I store videos of projects that I want to do.
-[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistVibe]Playlist where I store videos of projects that I want to do.
-[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistCharlas]Playlist where I store videos of projects that I want to do.
+## Music and recommended videos
+
+### Playlist with all the projects that I want to do
+
+[<img align="left" alt="Playlist with projects" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" target="_blank"/>][PlaylistProyectitos]
+
+### Playlist with videos of courses that I want to do
+
+[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistCursos]
+
+### Playlist with videos of testing
+
+[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistTesting]
+
+### I want to learn about crypto, so I save videos about that here
+
+[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistCripto]
+
+### I want to learn Vue, here's some videos, courses and projects that I want to watch
+
+[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistVue]
+
+### Here's some music to chill or study, like city pop or instrumental
+
+[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistMusiquita]
+
+### Here's my personal recomendation of music
+
+[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistVibe]
+
+### I love podcasts and interviews
+
+[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistCharlas]
 
 <br />
 <br />
