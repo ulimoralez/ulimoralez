@@ -21,7 +21,7 @@
 
 ## Music and recommended videos
 
-### Playlist with all the projects that I want to do
+### Playlist with all the projects that I want to do [PlaylistProyectitos]
 
 [<img align="left" alt="Playlist with projects" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" target="_blank"/>][PlaylistProyectitos]
 
