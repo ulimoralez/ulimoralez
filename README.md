@@ -20,7 +20,7 @@
 <br />
 
 ### Music and recommended videos
-[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistProyectitos]
+[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" target="_blank"/>][PlaylistProyectitos]
 [<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistTesting]
 [<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistCursos]
 [<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistCripto]
