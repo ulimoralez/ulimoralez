@@ -20,14 +20,14 @@
 <br />
 
 ### Music and recommended videos
-[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" target="_blank"/>][PlaylistProyectitos] Playlist where I store videos of projects that I want to do. <br />
-[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistTesting]Playlist where I store videos of projects that I want to do. <br />
-[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistCursos]Playlist where I store videos of projects that I want to do. <br />
-[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistCripto]Playlist where I store videos of projects that I want to do. <br />
-[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistVue]Playlist where I store videos of projects that I want to do. <br />
-[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistMusiquita]Playlist where I store videos of projects that I want to do. <br />
-[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistVibe]Playlist where I store videos of projects that I want to do. <br />
-[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistCharlas]Playlist where I store videos of projects that I want to do. <br />
+[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" target="_blank"/>][PlaylistProyectitos] Playlist where I store videos of projects that I want to do.
+[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistTesting]Playlist where I store videos of projects that I want to do.
+[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistCursos]Playlist where I store videos of projects that I want to do.
+[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistCripto]Playlist where I store videos of projects that I want to do.
+[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistVue]Playlist where I store videos of projects that I want to do.
+[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistMusiquita]Playlist where I store videos of projects that I want to do.
+[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistVibe]Playlist where I store videos of projects that I want to do.
+[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistCharlas]Playlist where I store videos of projects that I want to do.
 
 <br />
 <br />
