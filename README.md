@@ -23,33 +23,19 @@
 
 ### Playlist with all the projects that I want to do [<img align="left" alt="Playlist with projects" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" target="_blank"/>][ProjectsPlaylist]
 
-### Playlist with videos of courses that I want to do
+### Playlist with videos of courses that I want to do [<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistCursos]
 
-[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistCursos]
+### Playlist with videos of testing [<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistTesting]
 
-### Playlist with videos of testing
+### I want to learn about crypto, so I save videos about that here [<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistCripto]
 
-[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistTesting]
+### I want to learn Vue, here's some videos, courses and projects that I want to watch [<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistVue]
 
-### I want to learn about crypto, so I save videos about that here
+### Here's some music to chill or study, like city pop or instrumental [<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistMusiquita]
 
-[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistCripto]
+### Here's my personal recomendation of music [<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistVibe]
 
-### I want to learn Vue, here's some videos, courses and projects that I want to watch
-
-[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistVue]
-
-### Here's some music to chill or study, like city pop or instrumental
-
-[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistMusiquita]
-
-### Here's my personal recomendation of music
-
-[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistVibe]
-
-### I love podcasts and interviews
-
-[<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistCharlas]
+### I love podcasts and interviews [<img align="left" alt="My page in Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][PlaylistCharlas]
 
 <br />
 <br />
