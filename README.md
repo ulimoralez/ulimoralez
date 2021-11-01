@@ -21,9 +21,7 @@
 
 ## Music and recommended videos
 
-### Playlist with all the projects that I want to do [PlaylistProyectitos]
-
-[<img align="left" alt="Playlist with projects" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" target="_blank"/>][PlaylistProyectitos]
+### Playlist with all the projects that I want to do [<img align="left" alt="Playlist with projects" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" target="_blank"/>][ProjectsPlaylist]
 
 ### Playlist with videos of courses that I want to do
 
@@ -60,7 +58,7 @@
 [Twitter]:https://twitter.com/Ulisesmoralez12
 [Linkedin]:https://www.linkedin.com/in/ulimoralez/
 [Instagram]:https://www.instagram.com/uli.png/
-[PlaylistProyectitos]:https://www.youtube.com/playlist?list=PL5m_UCW_o7AERC7uJbSWqmmkaBOXk6V5h
+[ProjectsPlaylist]:https://www.youtube.com/playlist?list=PL5m_UCW_o7AERC7uJbSWqmmkaBOXk6V5h
 [PlaylistTesting]:https://www.youtube.com/playlist?list=PL5m_UCW_o7AEg1W42ollM7IGOugioJoe0
 [PlaylistCursos]:https://www.youtube.com/playlist?list=PL5m_UCW_o7AEbAKAyujjLK0ez8oCjWNHh
 [PlaylistCripto]:https://www.youtube.com/playlist?list=PL5m_UCW_o7AFFiSp1k5pArF0ipDT4rc5B
